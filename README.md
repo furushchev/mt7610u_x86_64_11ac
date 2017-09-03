@@ -1,4 +1,4 @@
-## How to use this driver ##
+## Installation
 
 * Download the sources from master branch 
 MediaTek_mt7610u_STA_driver_Linux 64bit.zip
@@ -6,16 +6,15 @@ MediaTek_mt7610u_STA_driver_Linux 64bit.zip
 * Unzip and cd MediaTek_mt7610u_STA_driver_Linux 64bit
 * run the following commands
 
-```
-#!shell
-
+```bash
 make clean
 sudo make 
 sudo make install 
-
 ```
 
-Connect Linksys AE6000 Wifi Dongle to your PC / Laptop.. 
+## Supported Hardware
+
+* Elecom WDC-433SU2M
 
 For other chipsets some files need modification including the following
 
