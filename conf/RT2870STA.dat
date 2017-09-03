@@ -1,12 +1,12 @@
 #The word of "Default" must not be removed
 Default
-CountryRegion=5
-CountryRegionABand=7
-CountryCode=
+CountryRegion=1
+CountryRegionABand=1
+CountryCode=JP
 ChannelGeography=1
-SSID=11n-AP
+SSID=
 NetworkType=Infra
-WirelessMode=8
+WirelessMode=14
 EfuseBufferMode=0
 Channel=0
 BeaconPeriod=100
